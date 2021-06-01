@@ -1,6 +1,5 @@
 # add a new comment
 #
-####  Wazza 01
 #
 ####  Wazza 02
 #
